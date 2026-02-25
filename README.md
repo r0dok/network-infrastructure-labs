@@ -1,6 +1,6 @@
 # Network Infrastructure Labs
 
-Production-tested configs from real lab implementations. VLAN routing, automation, multi-vendor setups.
+I have no clue what I was doing, but it was working in the end -  VLAN routing, automation, multi-vendor setups.
 
 ---
 
